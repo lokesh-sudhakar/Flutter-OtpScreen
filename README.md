@@ -10,7 +10,9 @@ A new Flutter package for both android & iOS which helps developer in creating O
 
 ## Screenshots
 
-<img src="ss_blue.jpeg" height="300em" /> <img src="ss_gradient_1.jpeg" height="300em" /> <img src="ss_gradient_2.jpeg" height="300em" />
+<img src="https://user-images.githubusercontent.com/35700254/88982227-57c39280-d2e5-11ea-8386-b846da22232a.png" height="300em" />
+<img src="https://user-images.githubusercontent.com/35700254/88982239-614cfa80-d2e5-11ea-996a-3f9fcd14830c.png" height="300em" />
+<img src="https://user-images.githubusercontent.com/35700254/88982248-6742db80-d2e5-11ea-92f0-ea4e1ea20093.png" height="300em" />
 
 ---
 
