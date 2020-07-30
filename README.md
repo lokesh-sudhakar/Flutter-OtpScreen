@@ -66,6 +66,7 @@ To use this package:
 
 ```
 The above code opens the simple OTP screen
+
 <img src="ss_white.jpeg" height="300em" />
 
 ---
@@ -97,6 +98,8 @@ You can play with different colors and add gradients as background to the screen
 ```
 
 The output of the above code will open below screen.
+
+
 <img src="ss_insta_1.jpeg" height="300em" />
 
 
