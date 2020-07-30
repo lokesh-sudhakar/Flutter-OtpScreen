@@ -10,9 +10,7 @@ A new Flutter package for both android & iOS which helps developer in creating O
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/35700254/88982227-57c39280-d2e5-11ea-8386-b846da22232a.png" height="300em" />
-<img src="https://user-images.githubusercontent.com/35700254/88982239-614cfa80-d2e5-11ea-996a-3f9fcd14830c.png" height="300em" />
-<img src="https://user-images.githubusercontent.com/35700254/88982248-6742db80-d2e5-11ea-92f0-ea4e1ea20093.png" height="300em" />
+<img src="https://user-images.githubusercontent.com/35700254/88982227-57c39280-d2e5-11ea-8386-b846da22232a.png" height="300em" />  <img src="https://user-images.githubusercontent.com/35700254/88982239-614cfa80-d2e5-11ea-996a-3f9fcd14830c.png" height="300em" />  <img src="https://user-images.githubusercontent.com/35700254/88982248-6742db80-d2e5-11ea-92f0-ea4e1ea20093.png" height="300em" />
 
 ---
 
@@ -70,7 +68,7 @@ To use this package:
 ```
 The above code opens the simple OTP screen
 
-<img src="ss_white.jpeg" height="300em" />
+<img src="https://user-images.githubusercontent.com/35700254/88982283-7cb80580-d2e5-11ea-9041-4293a8c3ab04.png" height="300em" />
 
 ---
 
@@ -103,7 +101,7 @@ You can play with different colors and add gradients as background to the screen
 The output of the above code will open below screen.
 
 
-<img src="ss_insta_1.jpeg" height="300em" />
+<img src="https://user-images.githubusercontent.com/35700254/88982272-745fca80-d2e5-11ea-8810-495f137fa997.png" height="300em" />
 
 
 ### Created & Maintained By
