@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:otp_screen/otp_screen.dart';
 
-import 'SuccessfulOtpScreen.dart';
-
 
 class TestScreen extends StatefulWidget {
   @override
@@ -40,3 +38,20 @@ class _TestScreenState extends State<TestScreen> {
     );
   }
 }
+
+class SuccessfulOtpScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: Center(
+        child: Text("Logged in successful",
+          textAlign: TextAlign.center,
+          style: TextStyle(
+              fontWeight: FontWeight.bold,
+              color: Colors.black
+          ),),
+      ),
+    );
+  }
+}
+
