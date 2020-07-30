@@ -7,6 +7,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
+// ignore: must_be_immutable
 class OtpScreen extends StatefulWidget {
   final String title;
   final String subTitle;
@@ -59,7 +60,8 @@ class OtpScreen extends StatefulWidget {
   _OtpScreenState createState() => new _OtpScreenState();
 }
 
-class _OtpScreenState extends State<OtpScreen> with SingleTickerProviderStateMixin {
+class _OtpScreenState extends State<OtpScreen>
+    with SingleTickerProviderStateMixin {
   Size _screenSize;
   int _currentDigit;
   List<int> otpValues;

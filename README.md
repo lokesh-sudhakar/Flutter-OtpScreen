@@ -16,7 +16,7 @@ A new Flutter package for both android & iOS which helps developer in creating O
 
 ## Usage
 
-[Example](https://github.com/lokesh-sudhakar/Flutter-OtpScreen/blob/master/example/example_app.dart)
+[Example](https://github.com/lokesh-sudhakar/Flutter-OtpScreen/blob/master/example/lib/main.dart)
 
 To use this package:
 
