@@ -2,7 +2,7 @@
 
 A new Flutter package for both android & iOS which helps developer in creating Otp screen with few lines of code.
 
-[![](https://img.shields.io/badge/version-0.0.1-blue)](https://github.com/lokesh-sudhakar/Flutter-OtpScreen)
+[![](https://img.shields.io/badge/version-0.0.2-blue)](https://pub.dev/packages/otp_screen)
 [![](https://img.shields.io/badge/package-flutter-blue)](https://github.com/lokesh-sudhakar/Flutter-OtpScreen)
 [![](https://img.shields.io/badge/platform-android%20%26%20ios-bg)](https://github.com/lokesh-sudhakar/Flutter-OtpScreen)
 
@@ -20,7 +20,7 @@ A new Flutter package for both android & iOS which helps developer in creating O
 
 To use this package:
 
-* add the dependency to your [pubspec.yaml] file.
+* add the dependency to your [pubspec.yaml](https://github.com/lokesh-sudhakar/Flutter-OtpScreen/blob/master/example/pubspec.yaml) file.
 
 ```yaml
     dependencies:

@@ -1,6 +1,6 @@
 name: otp_screen
 description: A new Flutter package which helps developer in creating Otp screen with few lines of code.
-version: 0.0.1
+version: 0.0.2
 author: Lokesh Chennamchetty <chennamchettyl@gmail.com>
 homepage: https://github.com/lokesh-sudhakar/Flutter-OtpScreen.git
 
