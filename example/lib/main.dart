@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
     Navigator.push(context, MaterialPageRoute(
         builder: (context) => SuccessfulOtpScreen()));
   }
-// Color(0xFF915FB5),const Color(0xFFCA436B)
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
