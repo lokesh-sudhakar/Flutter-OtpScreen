@@ -106,5 +106,5 @@ The output of the above code will open below screen.
 
 ### Created & Maintained By
 
-[Lokesh Chennamchetty] (https://github.com/lokesh-sudhakar) ([LinkedIn](https://www.linkedin.com/in/lokesh-chennamchetty))
+[Lokesh Chennamchetty] (https://github.com/lokesh-sudhakar)
 
